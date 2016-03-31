@@ -1,0 +1,28 @@
+name: FLIC
+favicon: null
+layout_spectrum: 0.2012256272137165
+typography_spectrum: 0.006870659999549389
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8575589004904032
+  lightness: 0.5192194550763816
+  saturation: 0.6069288970902562
+  rhythmicContrast: 0.8804206904023886
+purpose: []
